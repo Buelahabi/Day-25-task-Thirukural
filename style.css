@@ -1,0 +1,21 @@
+img{
+    height:400px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+@media all and (max-width:480px){
+    #title{
+        width:100%;
+        display:block;
+        padding:5px;
+        font-size:80%;
+
+    }
+}
+body{
+    background-color: #2db6b1;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
